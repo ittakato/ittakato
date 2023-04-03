@@ -1,7 +1,7 @@
 Hi 👋 My name is Itta Kato
 ==========================
 
-Computer Engineering Student at Waseda University
+Computer Engineering Student
 -------------------------------------------------
 
 * 🌍  I'm based in Tokyo
