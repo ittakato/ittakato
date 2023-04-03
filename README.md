@@ -8,7 +8,6 @@ Computer Engineering Student
 * ✉️  You can contact me at [ittakato@gmail.com](mailto:ittakato@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I created a time machine... but don't tell anyone
 
 ### Skills
 
