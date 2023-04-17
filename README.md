@@ -4,11 +4,6 @@ Hi 👋 My name is Itta Kato
 Computer Engineering Student
 -------------------------------------------------
 
-* 🌍  I'm based in Tokyo
-* ✉️  You can contact me at [ittakato@gmail.com](mailto:ittakato@gmail.com)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on interesting projects
-
 ### Skills
 
 
