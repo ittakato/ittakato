@@ -3,6 +3,4 @@
 Software Engineer at Progate.
 
 I love to build things that help open up new possibilities for people.
-Previously built a content-based social media app.
-
-
+I previously built a content-based social media app.
